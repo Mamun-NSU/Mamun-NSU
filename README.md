@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
 <h3 align="center">A JUNIOR MERN SOFTWARE DEVELOPER from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunbjit&label=Profile%20views&color=0e75b6&style=flat" alt="mamunbjit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamunbjit&label=Profile%20views&color=0e75b6&style=flat" alt="Mamun-NSU" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamunbjit" alt="mamunbjit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamunbjit" alt="Mamun-NSU" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Mamun-NSU" /></a> </p>
 
 - 🔭 I’m currently working on [BJIT ACADEMY](https://bjitacademy.com/)
 
